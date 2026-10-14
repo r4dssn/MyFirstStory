@@ -1,7 +1,10 @@
 import random as r
 
+
+
 slump = r.randint(1, 100)
 
+print(slump)
 
 def guess():
     run = True
